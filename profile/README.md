@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/Geo-Linux-Calculations?style=social)
+
 This organization includes crossplatform and open source software products of the surveying industry and related products.
 
 These software products should be sufficient not only for various geodetic calculations, but also for a graphical representation of the result.
@@ -173,6 +175,9 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/qtearth)
 ![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/qtearth/total)
 ![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/qtearth)
+* [qtearth-data-gdal](https://github.com/Geo-Linux-Calculations/qtearth-data-gdal):
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/qtearth-data-gdal)
+![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/qtearth-data-gdal)
 
 #### sdr33:
 
