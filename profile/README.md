@@ -94,6 +94,22 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/geofindkey)
 ![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/geofindkey/total)
 ![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/geofindkey)
+* [geotranz](https://github.com/Geo-Linux-Calculations/geotranz):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Geo-Linux-Calculations/geotranz)
+![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/geotranz)
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/geotranz)
+![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/geotranz/total)
+* [geotranz-data](https://github.com/Geo-Linux-Calculations/geotranz-data):
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/geotranz-data)
+* [geotranz-doc](https://github.com/Geo-Linux-Calculations/geotranz-doc):
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/geotranz-doc)
+* [geotranz-Examples](https://github.com/Geo-Linux-Calculations/geotranz-Examples):
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/geotranz-Examples)
+* [geotranz-SpreadsheetTester](https://github.com/Geo-Linux-Calculations/geotranz-SpreadsheetTester):
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/geotranz-SpreadsheetTester)
+* [gsb-russia](https://github.com/Geo-Linux-Calculations/gsb-russia):
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/gsb-russia)
+![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/gsb-russia)
 * [helmparms3d](https://github.com/Geo-Linux-Calculations/helmparms3d):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Geo-Linux-Calculations/helmparms3d)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/helmparms3d)
@@ -111,11 +127,23 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/libntv2)
 ![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/libntv2/total)
 ![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/libntv2)
+* [logi](https://github.com/Geo-Linux-Calculations/logi):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Geo-Linux-Calculations/logi)
+![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/logi)
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/logi)
+![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/logi/total)
+![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/logi)
 * [pasgeoconvert](https://github.com/Geo-Linux-Calculations/pasgeoconvert):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Geo-Linux-Calculations/pasgeoconvert)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/pasgeoconvert)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/pasgeoconvert)
 ![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/pasgeoconvert/total)
+* [qtproj](https://github.com/Geo-Linux-Calculations/qtproj):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Geo-Linux-Calculations/qtproj)
+![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/qtproj)
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/qtproj)
+![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/qtproj/total)
+![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/qtproj)
 
 #### gps:
 
@@ -178,6 +206,12 @@ The main directions of the organization:
 * [qtearth-data-gdal](https://github.com/Geo-Linux-Calculations/qtearth-data-gdal):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/qtearth-data-gdal)
 ![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/qtearth-data-gdal)
+* [srtm2stl](https://github.com/Geo-Linux-Calculations/srtm2stl):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Geo-Linux-Calculations/srtm2stl)
+![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/srtm2stl)
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/srtm2stl)
+![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/srtm2stl/total)
+![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/srtm2stl)
 
 #### sdr33:
 
@@ -260,3 +294,6 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/Geo-Linux-Calculations/triangle)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/triangle)
 ![GitHub all releases](https://img.shields.io/github/downloads/Geo-Linux-Calculations/triangle/total)
+* [voronoi](https://github.com/Geo-Linux-Calculations/voronoi):
+![GitHub repo size](https://img.shields.io/github/repo-size/Geo-Linux-Calculations/voronoi)
+![GitHub](https://img.shields.io/github/license/Geo-Linux-Calculations/voronoi)
